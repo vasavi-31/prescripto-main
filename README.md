@@ -28,9 +28,9 @@
 
 ## LIVE - DEMO 🌐
   
-**UI** 👉 [LINK](https://prescripto-frontend-iuq8.onrender.com/)
+**UI** 👉 [LINK](https://prescripto-main-frontend-vans.onrender.com/)
 
-**Admin Dashboard** 👉 [LINK](https://prescripto-admin-s4nn.onrender.com/)
+**Admin Dashboard** 👉 [LINK](https://prescripto-main-admin-akcc.onrender.com/)
 </div>
 
 <br/><hr/><br/>
